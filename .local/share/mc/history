@@ -17,8 +17,8 @@
 3=/bin
 4=/root/27091985-user1
 5=/root/27091985-user1/.git
-6=/root/27091985-user1/.git/.git
-7=/root
+6=/root
+7=/root/27091985-user1/.git/.git
 8=/root/.git
 
 [Dir Hist New Left Panel]
@@ -33,10 +33,10 @@
 8=/tmp
 9=/bin
 10=/root/27091985-user1/.git/branches
-11=/
-12=/root/27091985-user1/.git/objects
-13=/root/27091985-user1
+11=/root/27091985-user1/.git/objects
+12=/
+13=/root/27091985-user1/.git/.git
 14=/root/27091985-user1/.git
-15=/root/27091985-user1/.git/.git
+15=/root/27091985-user1
 16=/root/.git
 17=/root

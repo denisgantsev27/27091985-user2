@@ -360,3 +360,121 @@ docker cp 834c9ac608a6:/usr/share/nginx/html/index.html /root/27091985-user1/.gi
 mc
 git add .
 mc
+git remote add origin https://github.com/denisgantsev27/27091985-user2.git
+git add origin https://github.com/denisgantsev27/27091985-user2.git
+git add origin https://github.com/denisgantsev27/27091985-user2.git
+mc
+docker ps -a
+docker run --name user2 -d -p 82:80 nginx
+ docker exec -it user2 /bin/bash
+docker images
+ docker build -t user1/nginx
+docker login
+docker search nginx
+docker ps
+docker run -d -p 81:80 user1
+curl http://localhost:81/index.html
+curl http://localhost:82/index.html 
+docker exec -it user2 /bin/bash
+curl http://localhost:82/index.html 
+docker login
+docker images
+docker push 27091985/user1
+docker run -t -i user1 /bin/bash
+docker push 27091985/user1
+docker push user1
+docker imeges
+docker login
+docker images
+docker inspect web
+docker run -d user1 /bin/sh
+docker ps
+docker push {username}/user1
+docker push username/user1
+docker push root/user1
+docker push 27091985/user1
+docker login
+docker commit 
+docker ps
+docker commit a1f4c0b738fa 
+docker commit e9311afd34ee
+docker images;
+docker commit e9311afd34ee {username}/user1
+ps
+docker ps
+docker commit e9311afd34ee 27091985/user1
+ocker commit a1f4c0b738fa  27091985/user2
+docker commit a1f4c0b738fa  27091985/user2
+docker images;
+docker push 27091985/user1
+docker push 27091985/user2
+docker run -d -p 81:80 27091985/user1
+docker ps
+docker ps -a
+ docker rm -f user1
+ docker rm -f user2
+docker ps 
+docker run -d -p 81:80 27091985/user1
+docker run -d -p 81:80 27091985/user2
+docker run -d -p 82:80 27091985/user2
+curl http://localhost:81/index.html
+docker search user1
+docker search user2
+docker search  27091985/user1
+docker ps
+yum install git
+yum groupinstall "Development Tools"
+ps
+kill -9 26378
+kill -9 26465
+ps
+yum groupinstall "Development Tools"
+ps
+kill -9 26524
+export http_proxy=http://172.16.200.160:3128 https_proxy=http://172.16.200.160:3128 ftp_proxy=http://172.16.200.160:3128
+wget https://github.com/git/git/archive/v2.1.2.tar.gz -O git.tar.gz
+yum install git
+git --version
+git config --global user.name "denisgantsec27
+
+
+git config --global user.name "denisgantsec27"
+git config --list
+git config --global user.email "senis.gantsev@gmail.com
+git config --global user.email "senis.gantsev@gmail.com"
+git config --list
+docker pwd
+docker git init
+git config --global user.name "denisgantsev27"
+git clone git@github.com:denisgantsev27/27091985-user1.git
+git clone https://github.com/denisgantsev27/27091985-user1.git
+ls
+mc
+git status
+mc
+pwd
+mc
+git add .
+git commit -m "Add project"
+git add .
+git push
+mc
+git add .
+git push
+git init
+.git/
+mc
+git init
+git add .
+git status
+git push
+git push --tags
+git push -27091985-user1
+git commit -m "Init"
+mc
+git remote add origin https://github.com/denisgantsev27/27091985-user1.git
+git push -u origin master
+mc
+git remote add origin https://github.com/denisgantsev27/27091985-user2.git
+git push -u origin master
+exit
