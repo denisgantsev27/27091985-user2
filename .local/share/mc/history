@@ -1,0 +1,40 @@
+[cmdline]
+0=
+
+[:unselect_cmd: Unselect ]
+0=
+
+[input-def]
+0=*
+
+[input2]
+0=/root/27091985-user1/.git/.git/
+
+[Dir Hist New Right Panel]
+0=/etc
+1=/etc/systemd/system/docker.service.d
+2=/tmp/nginx/content
+3=/bin
+4=/root
+5=/root/27091985-user1
+6=/root/27091985-user1/.git
+7=/root/27091985-user1/.git/.git
+
+[Dir Hist New Left Panel]
+0=/u01
+1=/etc/sysconfig
+2=/etc
+3=/etc/systemd
+4=/etc/systemd/system
+5=/etc/systemd/system/docker.service.d
+6=/tmp/nginx/content
+7=/tmp/nginx
+8=/tmp
+9=/bin
+10=/root/27091985-user1/.git/branches
+11=/
+12=/root/27091985-user1/.git/objects
+13=/root
+14=/root/27091985-user1
+15=/root/27091985-user1/.git
+16=/root/27091985-user1/.git/.git

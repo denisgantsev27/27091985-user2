@@ -1,0 +1,4 @@
+/etc/systemd/system/docker.service.d/http-proxy.conf 2;24;34
+/etc/networks 1;0;0
+/etc/resolv.conf 6;18;135
+/etc/yum.conf 1;0;0
